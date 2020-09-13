@@ -9,6 +9,8 @@ public class CraftingAPIMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
+        ModRegistry.initShit();
+
 		System.out.println("Hello Fabric world!");
 	}
 }
