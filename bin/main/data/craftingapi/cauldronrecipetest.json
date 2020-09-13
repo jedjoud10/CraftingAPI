@@ -1,0 +1,12 @@
+{
+    "type": "craftingapi:cauldron",
+    "ingredient": {
+        "item": "minecraft:<insert>",
+        "tag": "#minecraft:<insert>"
+    },
+    "result": {
+        "item": "minecraft:<outsert>",
+        "count": "1"
+    },
+    "level": "3"
+}
